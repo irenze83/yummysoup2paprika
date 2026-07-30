@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# User data: do not commit recipe libraries or converted archives
+*.library
+*.library.zip
+*.paprikarecipe
+*.paprikarecipes
+Library Database.SQL
+Images/
